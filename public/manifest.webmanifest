@@ -45,7 +45,7 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "start_url": "https://bdget-traker.herokuapp.com/",
+    "start_url": "/",
     "display": "standalone"
   }
   
